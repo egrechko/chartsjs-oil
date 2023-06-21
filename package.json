@@ -18,7 +18,7 @@
     "dayjs": "^1.8.28",
     "dotenv": "^8.2.0",
     "moment": "^2.27.0",
-    "nuxt": "^2.13.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.0.0",
